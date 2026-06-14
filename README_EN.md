@@ -37,4 +37,3 @@ The complete memory lifecycle — generation, retrieval, consolidation, decay, c
 
 ## Inspiration
 
-This project was partially inspired by the design patterns seen in [Yudustrum](https://github.com/wg178624/yudustrum) (羽渡尘 v5.0), a GraphRAG memory system with brief/full dual storage, cache alignment, and multi-recall retrieval.
